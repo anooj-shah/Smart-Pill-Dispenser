@@ -53,6 +53,8 @@ The following diagram depicts the above process:
 
 
 Below is a schematic of the Smart Medicine Dispenser. The LED lights and speaker are for alerting patients when it is time to take their medicine. The Tower Pro SG92R Micro Servos allow us to programmatically control the motion of the underlying motors. There is a Micro Servo for each pill compartment. When the patient presses the Dispense button, the Micro servos cause their respective motors to rotate as required and dispense the pills appropriately. The screen is a display monitor. All of the parts are available and have to be assembled. The adjustable pill holder is something that needs to be designed and created.
+![pillsketch](https://user-images.githubusercontent.com/18583623/45432383-58120080-b66f-11e8-9c60-2bfeed7ed505.png)
+
 
 ### Product Target Audience
  The Smart Medicine Dispenser can be used by patients in need of tracking their routine of taking medicines. It will be particularly useful for the elderly who are more impacted by the medication adherence problem. The target audience can also include health care practitioners and family members close to the patient. The reporting capability would be especially useful for health care practitioners in treating their patients.
