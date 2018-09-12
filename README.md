@@ -117,5 +117,4 @@ Mitchell, Alex J., and Thomas Selmes. "Why Don't Patients Take Their Medicine? R
 Morimoto, T, T K Gandhi, A C Seger, T C Hsieh, D W Bates "Adverse drug events and medication errors: detection and classification methods." Quality and safety in health care 13.4 (2004): 306-314. Pub Med Center (PMC).
 Sabaté, Eduardo. "Adherence to Long-term Therapies: Evidence for Action." https://apps.who.int/iris/bitstream/10665/42682/1/9241545992.pdf. World Health Organization, 2003. Web. 14 Dec. 2015.
 Swan, Melanie. "Sensor Mania! The Internet of Things, Wearable Computing, Objective Metrics, and the Quantified Self 2.0." JSAN Journal of Sensor and Actuator Networks 1.3. Multidisciplinary Digital Publishing Institute, 2012. Web. 9 Dec. 2015.
-
  
