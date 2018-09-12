@@ -21,11 +21,11 @@ Below are a few solutions that have attempted to address the problem:
 •	MD2 Plus electronic pill dispenser (http://www.epill.com/md2plus.html): This is a bulky piece of equipment and does not appear to have convenient notification capabilities. Other products (MD1, MD2, MD3) from the same manufacturer appear to have similar limitations although they all have the ability to notify via an audible alarm.
 
 •	Examples of other products are the “Ivation Automatic Pill Dispenser” (http://myivation.com/index.php/ivation-pill-dispenser-tray.html) and “Med-e-lert Automatic Pill Dispenser” (http://www.medelert.net) which are also limited in functionality. They provide automatic reminders or alarms but do not have the capability to interface with email or text messaging systems.
-PROPOSED SOLUTION
+
+##PROPOSED SOLUTION
 
  
-Product Description
-
+###Product Description
  Patients, especially the elderly forget to take their medicine at the appropriate time and as prescribed. The “Smart Medicine Dispenser” will aid patients in this regard by providing a solution for dispensing medicines properly and tracking their medicine taking activities. It is assumed that a patient has taken his medicine after it is dispensed.
 
 The Smart Medicine Dispenser will have the following capabilities:
