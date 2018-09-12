@@ -4,8 +4,8 @@
 ##### By Anooj Shah
 ##### Under the guidance of: Tim McConnell
 ## Table of Contents  
-* [The Problem](#the-problem-prob)
-* [Existing Solutions](#existing-solutions-sol)
+* [The Problem](#the-problem)
+* [Existing Solutions](#existing-solutions)
 * [Technical Interviews](#technical-interviews-computer)
 * [Resume](#resume-books)
   * [Building Your Resume](#building-your-resume)
@@ -19,7 +19,7 @@
 * [Keeping Track of Your Applications](#keeping-track-of-your-applications-pencil)
 * [Portfolio and Profile](#portfolio-and-profile-loudspeaker)
 
-## The Problem :prob:
+## The Problem
 Patients not taking their medicines correctly and on time is referred to as the “Medication Adherence” problem. It is a “health care-oriented term that has various definitions across the medical community” (Dudzinski 1). The broad definition refers to the “extent that a person’s behavior, such as taking medications, following a diet, and/or executing lifestyle changes, corresponds with agreed recommendations from a healthcare provider" (Sabaté 3).
 
 Common reasons for the medication adherence problem are related to patient behaviors such as forgetfulness, running out of medication, and carelessness. “Out of the three, the most commonly reported means of non-adherence was forgetfulness” (Dudzinski 1).
