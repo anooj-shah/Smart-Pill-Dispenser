@@ -6,18 +6,16 @@
 ## Table of Contents  
 * [The Problem](#the-problem)
 * [Existing Solutions](#existing-solutions)
-* [Technical Interviews](#technical-interviews-computer)
-* [Resume](#resume-books)
-  * [Building Your Resume](#building-your-resume)
-  * [Resume Design](#resume-design)
-  * [Resume Feedback](#resume-feedback)
-* [Cover Letters](#cover-letters-love-letter)
-* [Referrals](#referrals-grin-heart-grin)
-* [Fellowships](#fellowships-rocket)
-* [Networking](#networking-zap)
-  * [Social Networking](#social-networking-resources)
-* [Keeping Track of Your Applications](#keeping-track-of-your-applications-pencil)
-* [Portfolio and Profile](#portfolio-and-profile-loudspeaker)
+* [Proposed Solution](#proposed-solution)
+  * [Product Description](#product-description)
+  * [Capabilities](#the-smart-medicine-dispenser-will-have-the-following-capabilities)
+* [Project Target Audience](#project-target-audience)
+* [Product Advantages](#product-advantages)
+* [Product Limitations](#product-limitations)
+* [Product Materials and Cost](#product-material-and-costs)
+* [Implementation Time](#implementation time)
+* [Project Importance](#project-importance)
+* [Works Cited](#works-cited)
 
 ## The Problem
 Patients not taking their medicines correctly and on time is referred to as the “Medication Adherence” problem. It is a “health care-oriented term that has various definitions across the medical community” (Dudzinski 1). The broad definition refers to the “extent that a person’s behavior, such as taking medications, following a diet, and/or executing lifestyle changes, corresponds with agreed recommendations from a healthcare provider" (Sabaté 3).
@@ -28,7 +26,7 @@ The negative effects of the lack of medication adherence include high health car
 
 Medication adherence can have a significant effect on improving treatments for patients. Its importance cannot be understated. “Increasing the effectiveness of adherence interventions may have a far greater impact on the health of the population than any improvement in specific medical treatments” (Brown and Bussell 304).
 
-## EXISTING SOLUTIONS :sol:
+## EXISTING SOLUTIONS
  Research in the area of medication adherence is lacking. “While patient non-adherence to medication regimens remains one of the most important health care concerns, it is surprising that research in this area is sorely lacking” (Gottlieb 5). Current solutions to the problem are limited. 
 
 Below are a few solutions that have attempted to address the problem:
