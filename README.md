@@ -1,8 +1,7 @@
-
 # Smart Pill Dispenser
 ##### An IoT device that solves the problem of medical adherence
 ##### By Anooj Shah
-##### Under the guidance of: Tim McConnell
+##### Special Thanks to Mr. Tim McConnell who mentored me throughout this project
 ## Table of Contents  
 * [The Problem](#the-problem)
 * [Existing Solutions](#existing-solutions)
