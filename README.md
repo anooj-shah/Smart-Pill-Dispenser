@@ -4,10 +4,12 @@ An IoT device that solves the problem of medical adherence
 By Anooj Shah
 Under the guidance of: Tim McConnell
 ##### Table of Contents  
-[Headers](##headers)  
-[Emphasis](#emphasis)     
-<a name="headers"/>
-## Headers
+[Problem](#problem)
+[Propsed Solution](#proposed)
+[Description](#desc)
+
+
+<a name="problem"/>
 ## The Problem
 Patients not taking their medicines correctly and on time is referred to as the “Medication Adherence” problem. It is a “health care-oriented term that has various definitions across the medical community” (Dudzinski 1). The broad definition refers to the “extent that a person’s behavior, such as taking medications, following a diet, and/or executing lifestyle changes, corresponds with agreed recommendations from a healthcare provider" (Sabaté 3).
 
@@ -17,6 +19,7 @@ The negative effects of the lack of medication adherence include high health car
 
 Medication adherence can have a significant effect on improving treatments for patients. Its importance cannot be understated. “Increasing the effectiveness of adherence interventions may have a far greater impact on the health of the population than any improvement in specific medical treatments” (Brown and Bussell 304).
 
+<a name="exist"/>
 ## EXISTING SOLUTIONS
  Research in the area of medication adherence is lacking. “While patient non-adherence to medication regimens remains one of the most important health care concerns, it is surprising that research in this area is sorely lacking” (Gottlieb 5). Current solutions to the problem are limited. 
 
@@ -28,7 +31,10 @@ Below are a few solutions that have attempted to address the problem:
 
 •	Examples of other products are the “Ivation Automatic Pill Dispenser” (http://myivation.com/index.php/ivation-pill-dispenser-tray.html) and “Med-e-lert Automatic Pill Dispenser” (http://www.medelert.net) which are also limited in functionality. They provide automatic reminders or alarms but do not have the capability to interface with email or text messaging systems.
 
+<a name="proposed"/>
 ## PROPOSED SOLUTION
+
+<a name="desc"/>
 ### Product Description
  Patients, especially the elderly forget to take their medicine at the appropriate time and as prescribed. The “Smart Medicine Dispenser” will aid patients in this regard by providing a solution for dispensing medicines properly and tracking their medicine taking activities. It is assumed that a patient has taken his medicine after it is dispensed.
 
