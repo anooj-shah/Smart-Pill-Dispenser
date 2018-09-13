@@ -42,6 +42,8 @@ Below are a few solutions that have attempted to address the problem:
  Patients, especially the elderly forget to take their medicine at the appropriate time and as prescribed. The “Smart Medicine Dispenser” will aid patients in this regard by providing a solution for dispensing medicines properly and tracking their medicine taking activities. It is assumed that a patient has taken his medicine after it is dispensed.
 
 ### Smart Medicine Dispenser Demo
+[![Alt text](http://i3.ytimg.com/vi/nIdDMRGHRPo/maxresdefault.jpg)](https://www.youtube.com/watch?v=nIdDMRGHRPo&)
+[![Alt text](http://i3.ytimg.com/vi/nIdDMRGHRPo/maxresdefault.jpg)](https://www.youtube.com/watch?v=nIdDMRGHRPo&)
 
 
 ### The Smart Medicine Dispenser will have the following capabilities:
@@ -51,7 +53,7 @@ Below are a few solutions that have attempted to address the problem:
 •	Smart notification: If the medicines are not dispensed on time, notifications will be sent to specified people in the form of an email, text message and a phone call. For example, a notification can be sent to the patient and designated family members.
 •	Recording: The system will record events and activities in a database. An event relates to the scenario of medicines not being dispensed at the specified time. An activity refers to the act of medicines being dispensed. Note that it is assumed that a patient has taken his medicine after dispensing it. The event and activity data this stored can be analyzed periodically to report on how a patient is adhering to his routine of taking medicines. This will result in better awareness which in turn will lead to improving medication adherence.
 The following diagram depicts the above process:
-
+![flowdiagram](https://user-images.githubusercontent.com/18583623/45521051-ee364b80-b781-11e8-91a9-c14759b56825.png)
 
 Below is a schematic of the Smart Medicine Dispenser. The LED lights and speaker are for alerting patients when it is time to take their medicine. The Tower Pro SG92R Micro Servos allow us to programmatically control the motion of the underlying motors. There is a Micro Servo for each pill compartment. When the patient presses the Dispense button, the Micro servos cause their respective motors to rotate as required and dispense the pills appropriately. The screen is a display monitor. All of the parts are available and have to be assembled. The adjustable pill holder is something that needs to be designed and created.
 ![pillsketch](https://user-images.githubusercontent.com/18583623/45432383-58120080-b66f-11e8-9c60-2bfeed7ed505.png)
