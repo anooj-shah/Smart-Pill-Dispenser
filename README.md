@@ -11,7 +11,7 @@
 * [Project Target Audience](#project-target-audience)
 * [Product Advantages](#product-advantages)
 * [Product Limitations](#product-limitations)
-* [Product Materials and Cost](#product-material-and-costs)
+* [Product Materials and Cost](#product-materials-and-costs)
 * [Implementation Time](#implementation-time)
 * [Project Importance](#project-importance)
 * [Works Cited](#works-cited)
