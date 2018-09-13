@@ -1,4 +1,4 @@
-# Smart Pill Dispenser
+# Smart Medicine Dispenser
 ##### An IoT device that solves the problem of medical adherence
 ##### By Anooj Shah
 ##### Special Thanks to Mr. Tim McConnell who mentored me throughout this project
@@ -7,6 +7,7 @@
 * [Existing Solutions](#existing-solutions)
 * [Proposed Solution](#proposed-solution)
   * [Product Description](#product-description)
+  * [Pill Dispenser Demo](#smart-medicine-dispenser-demo)
   * [Capabilities](#the-smart-medicine-dispenser-will-have-the-following-capabilities)
 * [Project Target Audience](#project-target-audience)
 * [Product Advantages](#product-advantages)
@@ -39,6 +40,9 @@ Below are a few solutions that have attempted to address the problem:
 ## PROPOSED SOLUTION
 ### Product Description
  Patients, especially the elderly forget to take their medicine at the appropriate time and as prescribed. The “Smart Medicine Dispenser” will aid patients in this regard by providing a solution for dispensing medicines properly and tracking their medicine taking activities. It is assumed that a patient has taken his medicine after it is dispensed.
+
+### Smart Medicine Dispenser Demo
+
 
 ### The Smart Medicine Dispenser will have the following capabilities:
 
@@ -91,8 +95,6 @@ The product will be more of a prototype and will not have the look and feel and 
 
       
 ## Implementation Time
-
- 
 •	February 6: Complete Medication Adherence research
 
 •	February 7: Incorporate mentor and teacher feedback and submit project proposal
@@ -108,11 +110,6 @@ The product will be more of a prototype and will not have the look and feel and 
 •	April 29: Perform final product testing. Complete research and presentation
 
 •	May 2: Test drive presentation with Mr. McConnell.
-
- 
-
-
- 
 
 ## Project Importance
  The area of Medication Adherence is one of growing concern. Many studies have brought to light the extremely damaging effects of non-adherence which include higher cost of health care, patient discomfort, and shorter lifespans. The solution arising from my project is expected to benefit a large section of the elderly population of our society given that they are most impacted by the problem. The project will serve to demonstrate how modern technology can be leveraged to develop solutions that can vastly improve the quality of life in society. Older people do not like visiting the hospital frequently and prefer options for home based health care. Family members find themselves under extreme duress when their loved ones are unhappy and uncomfortable especially because of a problem that is easily avoidable through proper discipline.  Health care professionals are at a disadvantage when they cannot accurately see the results of their treatment because of medication non-adherence. In the U.S. about 125,000 deaths and $100-$289 billion in costs per year are attributed to medication non-adherence (Dudzinski 2). The Smart Medicine Dispenser is a solution that will immensely help in tackling this serious problem. It will help instill much needed discipline in medicine taking.  By helping patients and their family members improve medication adherence, health care providers will find that they can be more effective in treating their patients.  The importance of the solution is far reaching. By bringing the Smart Medicine Dispenser solution into their lives, patients will not only help themselves but will also help their loved ones and care givers. 
